@@ -7,7 +7,7 @@ March 2019
 ## Introduction
 Despite the considerable progress made in unraveling the genetic causes of amyotrophic lateral sclerosis (ALS), we do not fully understand the molecular mechanisms underlying the disease. We analyzed genome-wide data involving nearly 80,000 individuals using a polygenic risk score approach to identify the biological pathways and cell types involved in ALS.
 ## Overview
-We have designed a **three-stage study design** to identify pathways and cell types relevant to ALS risk
+We have performed a **three-stage study design** to identify pathways and cell types relevant to ALS risk
 
 **Reference Dataset.** A published GWAS study involving 12,577 ALS cases and 23,475 controls (*Van Rheenen et al., 2016*)
 https://www.ncbi.nlm.nih.gov/pubmed/27455348
