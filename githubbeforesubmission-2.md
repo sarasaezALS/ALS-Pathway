@@ -1,4 +1,5 @@
-﻿Sara Saez-Atienzar, Sara Bandres-Ciga, Mike Nalls
+﻿Sara Saez-Atienzar, Sara Bandres-Ciga, Mike Nalls.
+ 
 March 2019
 
 # ALS_Pathway analysis based on Polygenic Risk Scores 
@@ -16,7 +17,7 @@ The summary statistics is used to define risk allele weights for the constructio
 https://www.ncbi.nlm.nih.gov/pubmed/29566793
 The regression models generated from the reference data is used to construct and test polygenic risk scores within the training data. 
 
-**Replication Dataset.** Plink Binary files containing individual-level data  genotype in our lab and  consisting in  2,420 ALS cases and 10,555 controls genotyped in our laboratory**(Nicolas et al., 2018)**
+**Replication Dataset.** Plink Binary files containing individual-level data  genotype in our lab and  consisting in  2,420 ALS cases and 10,555 controls genotyped in our laboratory*(Nicolas et al., 2018)*.
 https://www.ncbi.nlm.nih.gov/pubmed/29566793
 
 
