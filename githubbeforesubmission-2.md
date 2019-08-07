@@ -46,10 +46,10 @@ https://choishingwan.github.io/PRSice/
 Summary Stats without overlapping samples with training dataset. We have used a previous published GWAS summary Stats (Van Rheenen et al., 2016) https://www.ncbi.nlm.nih.gov/pubmed/27455348
 
 ## Training file
-**Training dataset**: Raw genotype data of "target phenotype" in the form of PLINK binary
+Training dataset: Raw genotype data of "target phenotype" in the form of PLINK binary
 https://www.ncbi.nlm.nih.gov/pubmed/29566793
 
-**Testing dataset**: Raw genotype data of "target phenotype" in the form of PLINK binary
+## Replication file: Raw genotype data of "target phenotype" in the form of PLINK binary
 https://www.ncbi.nlm.nih.gov/pubmed/29566793
 
 
